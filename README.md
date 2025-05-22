@@ -1,7 +1,4 @@
 # BookSpace
-<<<<<<< HEAD
-Aplikasi perpustakaan Multi-User dengan RBAC menggunakan framework Laravel
-=======
 
 Aplikasi perpustakaan Multi-User dengan RBAC menggunakan framework Laravel.
 
